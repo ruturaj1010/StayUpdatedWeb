@@ -181,8 +181,7 @@ const Login = () => {
           </p>
           <div className="mt-2 text-xs text-primary-500 space-y-1">
             <p className="break-all">Admin: admin@roxilers.com</p>
-            <p className="break-all">Store Owner: jane@example.com</p>
-            <p className="break-all">User: john@example.com</p>
+            <p className="break-all">Password: Pass@123</p>
           </div>
         </div>
       </div>
